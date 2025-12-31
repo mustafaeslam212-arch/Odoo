@@ -1,0 +1,2 @@
+# Odoo
+for Odoo projects 
